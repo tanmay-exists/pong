@@ -10,10 +10,9 @@ A modern Python rendition of the classic arcade game Pong, built with the Turtle
 - **Retro aesthetics**: Experience the charm of an old-school arcade game.
 
 ## Screenshot
-![Pong Gameplay](image/example.png)
+![Pong Gameplay](image/pong.png)
 
 ## How to Play
 1. Player 1: Use the **W** and **S** keys to move the left paddle up and down.
 2. Player 2: Use the **Up Arrow** and **Down Arrow** keys to control the right paddle.
 3. Hit the ball past your opponent's paddle to score a point.
-4. First player to reach 10 points wins!
